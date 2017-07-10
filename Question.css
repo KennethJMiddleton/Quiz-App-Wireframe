@@ -1,0 +1,26 @@
+body {
+  box-sizing: border-box;
+  background: #2569cf;
+  background-image: url(Walt-Disney-logo.png);
+  background-size: 75%;
+  background-repeat: no-repeat;
+  color: White;
+}
+
+@font-face {
+  font-family: Waltograph;
+  src: url(waltograph.regular.ttf);
+}
+
+h1, label {
+  font-family: 'Waltograph';
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+label {
+  font-size: 2em;
+}
